@@ -5,11 +5,13 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 #### In generale
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| cosa      | perchè | dove                        | chi         | quando         |
+|---| --- | --- | --- | --- |
+| processore | e-waste | asia (cina, giappone, india) | <nome_ditte> | ritmi di lavoro |
+| ram | | africa (ghana) | | |
+| ssd | | | | |
+| alimentatore | | | | |
+| smartphone e tablet | | | | |
 
 #### Specifico:
 Dominelli: Hard Disk
