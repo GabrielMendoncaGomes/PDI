@@ -1,7 +1,7 @@
 # PDI
 Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 
-1. Linee guida di progetto:
+Linee guida di progetto:
 In generale:
 
 |cosa      |perchè |dove                        |chi         |quando         |
