@@ -5,7 +5,7 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 #### In generale
 
 
-| cosa      | perchè | dove                        | chi         | quando         |
+| cosa | perchè | dove  | chi | quando |
 |---| --- | --- | --- | --- |
 | processore | e-waste | asia (cina, giappone, india) | <nome_ditte> | ritmi di lavoro |
 | ram | | africa (ghana) | | |
@@ -14,5 +14,5 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 | smartphone e tablet | | | | |
 
 #### Specifico:
-Dominelli: Hard Disk
-Mendonça: Mother Board
+- Dominelli: Hard Disk
+- Mendonça: Mother Board
