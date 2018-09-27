@@ -23,3 +23,4 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 - [Recovey Labs: Riciclaggio HDD](http://www.recoverylabs.it/servizi/riciclaggio.htm)
 - [Valorema](http://www.valorema.com/it/electronics/)
 - [Svizra](https://www.svizzeraenergia.ch/page/it-ch/riciclaggio)
+- [GreenPeace: Classifica aziende](http://www.greenpeace.org/italy/it/campagne/inquinamento/Elettronica-verde/eco-guida/)
