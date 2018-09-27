@@ -20,3 +20,4 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 ### Links utili:
 - [Migros: Raccolta elettronici usati](https://generation-m.migros.ch/it/vivere-in-modo-sostenibile/guida-al-riciclaggio-migros.html)
 - [RAEE](http://www.alcapower.com/it/info/ambiente)
+- [Recovey Labs: Riciclaggio HDD](http://www.recoverylabs.it/servizi/riciclaggio.htm)
