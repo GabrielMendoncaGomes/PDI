@@ -28,4 +28,5 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 
 
 ### Fonti:
-- [Mother Board ](https://it.wikipedia.org/wiki/Scheda_madre)
+- [Mother Board descrizione](https://it.wikipedia.org/wiki/Scheda_madre)
+- [Mother Board immagini](https://www.fastweb.it/internet/scheda-madre-che-cos-e/)
