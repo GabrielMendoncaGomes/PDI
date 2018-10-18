@@ -25,3 +25,7 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 - [Svizra](https://www.svizzeraenergia.ch/page/it-ch/riciclaggio)
 - [GreenPeace: Classifica aziende](http://www.greenpeace.org/italy/it/campagne/inquinamento/Elettronica-verde/eco-guida/)
 - [Reciclaggio computer](https://www.securis.com/how-a-computer-is-recycled-literally/)
+
+
+### Fonti:
+- [Mother Board ](https://it.wikipedia.org/wiki/Scheda_madre)
