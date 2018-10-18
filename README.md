@@ -31,3 +31,4 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 - [Mother Board descrizione](https://it.wikipedia.org/wiki/Scheda_madre)
 - [Mother Board immagini](https://www.fastweb.it/internet/scheda-madre-che-cos-e/)
 - [HDD Wikipedia](https://it.wikipedia.org/wiki/Disco_rigido#Principi_fisici_di_registrazione_magnetica_e_lettura)
+- [Materiali ferromagnetici (HDD)](https://it.wikipedia.org/wiki/Ferromagnetismo)
