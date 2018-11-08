@@ -27,7 +27,7 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 - [Reciclaggio computer](https://www.securis.com/how-a-computer-is-recycled-literally/)
 - [Macchine belle belle](https://www.stokkermill.com/it/applicazioni/schede-raee-pcb/)
 - [Punti di raccolta: Bioggio](https://www.aziendarifiuti.ch/E-a8789a00)
-
+- [Riciclaggio rame](https://copperalliance.it/risorse-professionali/programmi-per-le-scuole/chimica-lestrazione-del-rame/)
 
 ### Fonti:
 - [Mother Board descrizione](https://it.wikipedia.org/wiki/Scheda_madre)
