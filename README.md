@@ -26,6 +26,7 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 - [GreenPeace: Classifica aziende](http://www.greenpeace.org/italy/it/campagne/inquinamento/Elettronica-verde/eco-guida/)
 - [Reciclaggio computer](https://www.securis.com/how-a-computer-is-recycled-literally/)
 - [Macchine belle belle](https://www.stokkermill.com/it/applicazioni/schede-raee-pcb/)
+- [Punti di raccolta: Bioggio](https://www.aziendarifiuti.ch/E-a8789a00)
 
 
 ### Fonti:
