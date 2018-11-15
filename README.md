@@ -28,6 +28,7 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 - [Macchine belle belle](https://www.stokkermill.com/it/applicazioni/schede-raee-pcb/)
 - [Punti di raccolta: Bioggio](https://www.aziendarifiuti.ch/E-a8789a00)
 - [Riciclaggio rame](https://copperalliance.it/risorse-professionali/programmi-per-le-scuole/chimica-lestrazione-del-rame/)
+- [Swico Recycling](http://www.swicorecycling.ch/it/smaltimento/)
 
 ### Fonti:
 - [Mother Board descrizione](https://it.wikipedia.org/wiki/Scheda_madre)
