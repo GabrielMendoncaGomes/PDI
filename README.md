@@ -30,6 +30,7 @@ Progetto Didattico Interdisciplinare MPT 4A: E-Waste, Recycling guide
 - [Depliant - Rifiuti speciali](https://www.aziendarifiuti.ch/Pieghevole-Rifiuti-speciali-636c1800)
 - [Riciclaggio rame](https://copperalliance.it/risorse-professionali/programmi-per-le-scuole/chimica-lestrazione-del-rame/)
 - [Swico Recycling](http://www.swicorecycling.ch/it/smaltimento/)
+- [Distruzione HDD - wikihow](https://www.wikihow.it/Distruggere-un-Disco-Fisso)
 
 ### Fonti:
 - [Mother Board descrizione](https://it.wikipedia.org/wiki/Scheda_madre)
